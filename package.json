@@ -1,14 +1,6 @@
 {
   "name": "tailwind-nuxt-starter",
   "version": "1.0.0",
-  "description": "A free and open-source starter project to help you get started with the core Flowbite Library components and Nuxt.js",
-  "license": "MIT",
-  "repository": "https://github.com/themesberg/tailwind-nuxt-starter",
-  "homepage": "https://flowbite.com/docs/getting-started/nuxt/",
-  "contributors": [
-    "Zoltán Szőgyényi (https://twitter.com/zoltanszogyenyi)"
-  ],
-  "author": "Bergside Inc.",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -22,6 +14,8 @@
     "nuxt": "3.0.0"
   },
   "dependencies": {
-    "flowbite": "^1.6.5"
+    "@ant-design-vue/nuxt": "^1.1.1",
+    "@headlessui/vue": "^1.7.16",
+    "@heroicons/vue": "^2.0.18"
   }
 }
