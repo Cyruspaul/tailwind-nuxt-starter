@@ -1,5 +1,6 @@
 {
-  "name": "tailwind-nuxt-starter",
+  "name": "tailwind + And Design starter",
+  "author": "Cyrus Paul",
   "version": "1.0.0",
   "scripts": {
     "build": "nuxt build",
